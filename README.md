@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @piracypando
 - 👀 I’m interested in webdesign
-- 🌱 I’m currently learning HTML, CSS; JS.
+- 🌱 I’m currently learning HTML, CSS, JS.
 - 📫 How to reach me: anton@fbi.systems
